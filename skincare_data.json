@@ -1,0 +1,171 @@
+[
+  {
+    "category": "Greeting",
+    "questions": ["hi", "hello", "hey", "hiya", "good day"],
+    "answer": "Hi there! How can I help with your skincare today?"
+  },
+  {
+    "category": "Routine",
+    "questions": [
+      "What is a good skincare routine for oily skin?",
+      "How should I take care of oily skin?",
+      "Skincare tips for oily skin?",
+      "Best products for oily face routine?"
+    ],
+    "answer": "Clean your face twice a day, use a salicylic acid cleanser, toner, and a lightweight oil-free moisturizer."
+  },
+  {
+    "category": "Routine",
+    "questions": [
+      "What is the best routine for dry skin?",
+      "How can I care for dry skin?",
+      "Skin care steps for dry skin?",
+      "My skin is very dry, what should I do?"
+    ],
+    "answer": "Use a gentle cleanser, hydrating toner, thick moisturizer, and apply hyaluronic acid serum."
+  },
+  {
+    "category": "SPF",
+    "questions": [
+      "Do I need sunscreen daily?",
+      "Should I use sunscreen indoors?",
+      "Is sunscreen needed every day?",
+      "Do I need SPF if it’s cloudy?"
+    ],
+    "answer": "Yes! Use sunscreen every day, even if it’s cloudy or you’re indoors."
+  },
+  {
+    "category": "Exfoliation",
+    "questions": [
+      "What is exfoliation?",
+      "How do I exfoliate my skin?",
+      "Is exfoliating necessary?",
+      "What does exfoliation do?"
+    ],
+    "answer": "Exfoliation is the removal of dead skin cells using scrubs or acids. Do it 1-2 times a week depending on your skin type."
+  },
+  {
+    "category": "Acne",
+    "questions": [
+      "How can I reduce acne?",
+      "What helps acne breakouts?",
+      "Best way to get rid of pimples?",
+      "How to deal with acne-prone skin?"
+    ],
+    "answer": "Use salicylic acid or benzoyl peroxide, avoid touching your face, and keep your skin clean and moisturized."
+  },
+  {
+    "category": "Routine",
+    "questions": [
+      "Give me 5 steps of skin care routine",
+      "Basic skincare steps?",
+      "What are the steps in skincare?",
+      "Daily skincare process?"
+    ],
+    "answer": "Sure! Here are 5 basic steps:\n1. Cleanser\n2. Toner\n3. Serum\n4. Moisturizer\n5. Sunscreen"
+  },
+  {
+    "category": "Product Recommendations",
+    "questions": [
+      "Can you suggest some good sunscreens?",
+      "Top sunscreens you recommend?",
+      "What SPF is good for daily use?",
+      "List some sunscreen brands?",
+      "give me best sunscreams for oily skin",
+      "best sunscreens for oily skin",
+      "best sunscreens for dry skin",
+      "best sunscreens for combination skin",
+      "best sunscreens for sensitive skin",
+      "best sunscreens for acne-prone skin"
+    ],
+    "answer": "Sure! Some popular sunscreens are:\n- Hyphen ALL I NEED SUNSCREEN SPF 50 PA++++ 50ML\n- Minimalist SPF 60 Sunscreen\n- Dot and Key\n- Cetaphil Sunscreen"
+  },
+  {
+    "category": "Product Recommendations",
+    "questions": [
+      "Can you suggest a good moisturizer?",
+      "What moisturizer is good for dry skin?",
+      "Best moisturizers for daily use?",
+      "What are some hydrating creams?",
+      "best moisturizers for oily skin",
+      "best moisturizers for dry skin",
+      "best moisturizers for combination skin",
+      "best moisturizers for sensitive skin",
+      "best moisturizers for acne-prone skin",
+      "best moisturizers for all skin types",
+      "best moisturizers for everyday use",
+      "best moisturizers for summer",
+      "best moisturizers for winter",
+      "best moisturizers for monsoon"
+
+
+    ],
+    "answer": "Of course! Here are some good moisturizers:\n- CeraVe Moisturizing Cream\n- Neutrogena Hydro Boost Gel\n- Cetaphil Daily Hydrating Lotion"
+  },
+  {
+    "category": "Product Recommendations",
+    "questions": [
+      "Can you suggest a good serum?",
+      "Best serum for glowing skin?",
+      "What serum should I use?",
+      "Serum recommendations?"
+    ],
+    "answer": "Yes! Popular serums include:\n- The Ordinary Niacinamide 10% + Zinc 1%\n- L'Oréal Revitalift Hyaluronic Acid Serum\n- La Roche-Posay Vitamin C Serum"
+  },
+  {
+    "category": "Farewell",
+    "questions": ["bye", "see you", "goodbye", "talk later", "thanks, bye"],
+    "answer": "Take care! Don't forget to apply your sunscreen 😊"
+  },
+  {
+    "category": "night_routine",
+    "questions": [
+      "What is a good nighttime skincare routine?",
+      "Can you suggest a night skincare routine?",
+      "What's the best way to take care of my skin at night?",
+      "How should I do my skincare before bed?",
+      "What steps should be in a night routine?"
+    ],
+    "answer": "A good night-time skincare routine typically includes: 1. Gentle cleanser to remove dirt and makeup, 2. Toner (optional) to balance skin, 3. Serum for targeted treatment (like hyaluronic acid or niacinamide), 4. Eye cream if needed, 5. Moisturizer to hydrate and lock in products, and 6. A treatment like retinol or an overnight mask if desired."
+  },
+  {
+    "category": "night_routine",
+    "questions": [
+      "Should I use retinol at night?",
+      "Is retinol part of a nighttime routine?",
+      "When should I apply retinol?",
+      "Can I use retinol every night?"
+    ],
+    "answer": "Yes, retinol is best used at night because it can make your skin more sensitive to sunlight. Start with 2-3 times a week and increase gradually. Always follow with a good moisturizer and use sunscreen in the morning."
+  },
+  {
+    "category": "night_routine",
+    "questions": [
+      "Do I need to wash my face at night if I didn't wear makeup?",
+      "Should I cleanse at night even without makeup?",
+      "Is washing your face at night necessary?",
+      "Can I skip cleansing at night if my face looks clean?"
+    ],
+    "answer": "Yes, you should still cleanse your face at night. Even if you didn't wear makeup, your skin collects dirt, oil, and pollutants throughout the day that can clog pores or cause breakouts if not removed."
+  },
+  {
+    "category": "night_routine",
+    "questions": [
+      "What kind of moisturizer should I use at night?",
+      "Should I use a different moisturizer at night?",
+      "What's the best night cream?",
+      "Do I need a heavy moisturizer at night?"
+    ],
+    "answer": "At night, you can use a richer, more hydrating moisturizer or night cream than you'd use during the day. Look for ingredients like ceramides, hyaluronic acid, glycerin, and peptides to help repair your skin barrier while you sleep."
+  },
+  {
+    "category": "night_routine",
+    "questions": [
+      "Can I skip toner in my night routine?",
+      "Is toner necessary at night?",
+      "Should I use toner before bed?",
+      "What does toner do at night?"
+    ],
+    "answer": "Toner is optional but can be helpful in removing any leftover impurities and balancing your skin’s pH. If your toner contains soothing or hydrating ingredients, it can prep your skin to absorb serums and moisturizers better."
+  }
+]
